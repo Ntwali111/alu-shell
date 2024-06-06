@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# this script prints all process that are running
+ps -faux
